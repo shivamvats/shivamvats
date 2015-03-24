@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Introduction
 permalink: /about/
 ---
 
-Some information about you!
+I am a 2nd year undergraduate student of Mathematics and Computing at Indian
+Institute of Technology, Kharagapur. I love mathematics, especially abstract
+algebra and number theory. I also love programming, and developing software that
+has an impact on people and makes their lives easier. This is why I am also an
+active open-source contributer.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shivamvats.iitkgp@gmail.com](mailto:shivamvats.iitkgp@gmail.com)
