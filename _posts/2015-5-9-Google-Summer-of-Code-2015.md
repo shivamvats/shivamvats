@@ -3,7 +3,7 @@ layout: post
 title: Beginning of GSoC 2015
 ---
 
-![gsoc](images/gsoc.png)
+![gsoc](/images/gsoc.png)
 
 In an earlier post I had talked about my application for Google Summer of Code,
 2015. I am extremely glad to inform that my project for CSymPy (now called
