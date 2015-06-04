@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GSoC Week 2
---
+---
 
 The 2nd week is now coming to an end, and by now I have a pretty good idea
 about how things often don't work the way we want them to.
