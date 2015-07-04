@@ -28,7 +28,8 @@ needs. The scope for improvement is immense and we'll need to decide the order
 in which we'll push the optimisations.
 
 I started writing the `RingSeries` class for series evaluation in [PR
-9614](https://github.com/sympy/sympy/pull/9614). According to my current
+9614](https://github.com/sympy/sympy/pull/9614). I was supposed to update my
+blog yesterday, but I dozed off while working on it. According to my current
 approach, I am writing classes for all the functions so that they can be
 represented symbolically. Another issue that needs to be tackled is expansion of
 nested functions, things like `sin(cos(sin(x))`. This will need some work as
